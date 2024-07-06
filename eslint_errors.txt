@@ -1,0 +1,5 @@
+Expected to return a value at the end of function 'run'.eslint(consistent-return)
+Split 'var' declarations into multiple statements.eslint(one-var)
+Unexpected var, use let or const instead.eslintno-var
+Expected '===' and instead saw '=='.eslinteqeqeq
+'c' is not defined
